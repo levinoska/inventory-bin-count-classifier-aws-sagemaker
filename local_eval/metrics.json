@@ -1,0 +1,14 @@
+{
+  "test_accuracy": 0.3393708293612965,
+  "test_macro_precision": 0.41481308857605015,
+  "test_macro_recall": 0.3361547501263552,
+  "test_macro_f1": 0.3524913306918365,
+  "num_test_samples": 1049,
+  "class_labels": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ]
+}

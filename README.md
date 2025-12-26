@@ -11,6 +11,12 @@
   <img alt="Framework" src="https://img.shields.io/badge/Framework-PyTorch-ee4c2c?logo=pytorch&logoColor=white">
   <img alt="CV" src="https://img.shields.io/badge/Domain-Computer%20Vision-brightgreen">
   <img alt="Deployment" src="https://img.shields.io/badge/Inference-Real--Time%20Endpoint%20%2B%20Lambda-purple">
+  </br>
+  <a href="https://github.com/brej-29/inventory-bin-count-classifier-aws-sagemaker" target="_blank">
+    <button style="background-color: #dd00ffff; color: white; padding: 10px 20px; border: none; border-radius: 6px; cursor: pointer; font-weight: bold;">
+        REPO LINK
+    </button>
+</a>
 </div>
 
 <div align="center">
@@ -304,7 +310,7 @@ Minimum recommended:
 
 ---
 
-## **References (Copy-Paste List)**
+## **References**
 
 Amazon SageMaker Distributed Training (Developer Guide)
 https://docs.aws.amazon.com/sagemaker/latest/dg/distributed-training.html
